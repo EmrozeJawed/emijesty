@@ -1,4 +1,3 @@
-import Image from "next/image";
 import React from "react";
 
 const Testimonial = () => {
@@ -12,7 +11,7 @@ const Testimonial = () => {
               <h2 className="text-gray-500 font-black text-[20px]">Usaim Jahangir</h2>
               <p>CEO & Founder Invision</p>
               <p className="max-w-[200px] text-gray-500">
-                "Greetings" im web application developer this is my official store 
+                Greetings im web application developer this is my official store 
               </p>
             </div>
           </div>
